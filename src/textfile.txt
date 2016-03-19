@@ -1,0 +1,420 @@
+American to Australian
+2
+American to Bangladeshi
+77.96
+American to Indian
+62.7
+American to Iranian
+24793
+American to Iraqi
+1161
+American to Malaysian
+3.23
+American to Myanmar
+975
+American to Nepalese
+100.4
+American to Pakistan
+106
+American to Russian
+31.9
+American to Saudi Arabian
+3.751
+American to Singapore
+1.26
+American to South African
+9.88
+American to Sri Lankan
+132
+Australian to American
+0.937
+Australian to Bangladeshi
+73.06
+Australian to Indian
+58.7
+Australian to Iranian
+23235
+Australian to Iraqi
+1088
+Australian to Malaysian
+3.03
+Australian to Myanmar
+913.7
+Australian to Nepalese
+94.09
+Australian to Pakistan
+99.4
+Australian to Russian
+29.9
+Australian to Saudi
+3.51
+Australian to Singapore
+1.18
+Australian to South African
+9.26
+Australian to Sri Lankan
+124
+Bangladesh to American
+0.0128
+Bangladesh to Australian
+0.0137
+Bangladesh to Indian
+0.804
+Bangladesh to Iranian
+318
+Bangladesh to Iraqi
+14.9368
+Bangladesh to Malaysian
+0.0414
+Bangladesh to Myanmar
+12.550439117018753
+Bangladesh to Nepalese
+1.2915064369230393
+Bangladesh to Pakistan
+1.36
+Bangladesh to Russian
+0.41
+Bangladesh to Saudi
+0.0481
+Bangladesh to Singapore
+0.0161
+Bangladesh to South African
+0.127
+Bangladesh to Sri Lankan
+1.69
+Indian to American
+0.016
+Indian to Australian
+0.017
+Indian to Bangladeshi
+1.244
+Indian to Iranian
+396
+Indian to Iraqi
+18.53
+Indian to Malaysian
+0.0516
+Indian to Myanmar
+15.56
+Indian to Nepalese
+1.602
+Indian to Pakistan
+1.69
+Indian to Russian
+0.509
+Indian to Saudi Arabian
+0.0598
+Indian to Singapore
+0.02
+Indian to South African
+0.158
+Indian to Sri Lankan
+2.11
+Iranian to American
+0.0000403400
+Iranian to Australian
+0.000042868420796148235
+Iranian to Bangladeshi
+0.0031
+Iranian to Indian
+0.0025
+Iranian to Iraqi
+0.0468
+Iranian to Malaysian
+0.0001
+Iranian to Myanmar
+0.0393
+Iranian to Nepalese
+0.004
+Iranian to Pakistan
+0.0043
+Iranian to Russian
+0.0013
+Iranian to Saudi Arabian
+0.0002
+Iranian to Singapore
+0.0001
+Iranian to South African
+0.0004
+Iranian to Sri Lankan
+0.0053
+Iraqi to American
+0.0009
+Iraqi to Australian
+0.0009
+Iraqi to Bangladeshi
+0.06670094562647753
+Iraqi to Indian
+0.054
+Iraqi to Iranian
+21.3
+Iraqi to Malaysian
+0.0028
+Iraqi to Myanmar
+0.8371261571326846
+Iraqi to Nepalese
+0.08614470062544939
+Iraqi to Pakistan
+0.0914
+Iraqi to Russian
+0.0275
+Iraqi to Saudi Arabian
+0.0032
+Iraqi to Singapore
+0.0011
+Iraqi to South African
+0.0085
+Iraqi to Sri Lankan
+0.114
+Malaysian to American
+0.309
+Malaysian to Australian
+0.33
+Malaysian to Bangladeshi
+24.13
+Malaysian to Indian
+19.4
+Malaysian to Iranian
+7673
+Malaysian to Iraqi
+359.4
+Malaysian to Myanmar
+301.7
+Malaysian to Nepalese
+31.07
+Malaysian to Pakistan
+32.8
+Malaysian to Russian
+9.88
+Malaysian to Saudi Arabian
+1.16
+Malaysian to Singapore
+0.389
+Malaysian to South African
+3.06
+Malaysian to Sri Lankan
+40.8
+Myanmar to American
+0.001
+Myanmar to Australian
+0.0011
+Myanmar to Bangladeshi
+0.07967848699763593
+Myanmar to Indian
+0.0643
+Myanmar to Iranian
+25.4
+Myanmar to Iraqi
+1.1945630792677524
+Myanmar to Malaysian
+0.0033
+Myanmar to Nepalese
+0.1029052788417355
+Myanmar to Pakistan
+0.109
+Myanmar to Russian
+0.0327
+Myanmar to Saudi Arabian
+0.0038
+Myanmar to Singapore
+0.0013
+Myanmar to South African
+0.0101
+Myanmar to Sri Lankan
+0.135
+Nepalese to American
+0.01
+Nepalese to Australian
+0.0106
+Nepalese to Bangladeshi
+0.774289598108747
+Nepalese to Indian
+0.624
+Nepalese to Iranian
+247
+Nepalese to Iraqi
+11.608375126264864
+Nepalese to Malaysian
+0.0322
+Nepalese to Myanmar
+9.717674460004748
+Nepalese to Pakistan
+1.06
+Nepalese to Russian
+0.318
+Nepalese to Saudi Arabian
+0.0374
+Nepalese to Singapore
+0.0125
+Nepalese to South African
+0.098
+Nepalese to Sri Lankan
+1.31
+Pakistan to American
+0.0094
+Pakistan to Australian
+0.0101
+Pakistan to Bangladeshi
+0.7348
+Pakistan to Indian
+0.591
+Pakistan to Iranian
+234
+Pakistan to Iraqi
+10.95
+Pakistan to Malaysian
+0.0305
+Pakistan to Myanmar
+9.189
+Pakistan to Nepalese
+0.9463
+Pakistan to Russian
+0.301
+Pakistan to Saudi Arabian
+0.0353
+Pakistan to Singapore
+0.0118
+Pakistan to South African
+0.0931
+Pakistan to Sri Lankan
+1.24
+Russian to American
+0.0313
+Russian to Australian
+0.0334
+Russian to Bangladeshi
+2.442
+Russian to Indian
+1.96
+Russian to Iranian
+776
+Russian to Iraqi
+36.37
+Russian to Malaysian
+0.101
+Russian to Myanmar
+30.54
+Russian to Nepalese
+3.144
+Russian to Pakistan
+3.32
+Russian to Saudi Arabian
+0.117
+Russian to Singapore
+0.0393
+Russian to South African
+0.309
+Russian to Sri Lankan
+4.13
+Saudi Arabian to American
+0.267
+Saudi Arabian to Australian
+0.285
+Saudi Arabian to Bangladeshi
+20.79
+Saudi Arabian to Indian
+16.7
+Saudi Arabian to Iranian
+6610
+Saudi Arabian to Iraqi
+309.6
+Saudi Arabian to Malaysian
+0.862
+Saudi Arabian to Myanmar
+260
+Saudi Arabian to Nepalese
+26.77
+Saudi Arabian to Pakistan
+28.3
+Saudi Arabian to Russian
+8.51
+Saudi Arabian to Singapore
+0.335
+Saudi Arabian to South African
+2.63
+Saudi Arabian to Sri Lankan
+35.2
+Singapore Dollar to American
+0.796
+Singapore Dollar to Australian
+0.849
+Singapore Dollar to Bangladeshi
+62.05
+Singapore Dollar to Indian
+49.9
+Singapore Dollar to Iranian
+19733
+Singapore Dollar to Iraqi
+924.3
+Singapore Dollar to Malaysian
+2.57
+Singapore Dollar to Myanmar
+776
+Singapore Dollar to Nepalese
+79.91
+Singapore Dollar to Pakistan
+84.4
+Singapore Dollar to Russian
+25.4
+Singapore Dollar to Saudi Arabian
+2.99
+Singapore Dollar to South African
+7.86
+Singapore Dollar to Sri Lankan
+105
+South African Rand to American
+0.101
+South African Rand to Australian
+0.108
+South African Rand to Bangladeshi
+7.892
+South African Rand to Indian
+6.34
+South African Rand to Iranian
+2510
+South African Rand to Iraqi
+117.6
+South African Rand to Malaysian
+0.327
+South African Rand to Myanmar
+98.7
+South African Rand to Nepalese
+10.16
+South African Rand to Pakistan
+10.7
+South African Rand to Russian
+3.23
+South African Rand to Saudi Arabian
+0.38
+South African Rand to Singapore
+0.127
+South African Rand to Sri Lankan
+13.4
+Sri Lankan to American
+0.0076
+Sri Lankan to Australian
+0.0081
+Sri Lankan to Bangladeshi
+0.5908
+Sri Lankan to Indian
+0.475
+Sri Lankan to Iranian
+188
+Sri Lankan to Iraqi
+8.801
+Sri Lankan to Malaysian
+0.0245
+Sri Lankan to Myanmar
+7.389
+Sri Lankan to Nepalese
+0.7609
+Sri Lankan to Pakistan
+0.804
+Sri Lankan to Russian
+0.242
+Sri Lankan to Saudi Arabian
+0.0284
+Sri Lankan to Singapore
+0.0095
+Sri Lankan to South African
+0.0749
